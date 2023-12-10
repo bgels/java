@@ -10,5 +10,7 @@ public class CalculatorTester
         // A good place to start is to
         // create comments to remind yourself 
         // what you need to do
+
+        System.out.println("Hello!");
     }
 }
